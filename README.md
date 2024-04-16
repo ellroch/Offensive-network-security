@@ -1,2 +1,2 @@
 # Offensive-network-security
-This class revolved around adversarial approaches to security, -- penetration testing primarily
+These are projects that involved attacks on networks which were either owned by us, or we were otherized to operate on.
